@@ -1,1 +1,1 @@
-# Manual_Testing_P
+# Manual_Testing_Practice
